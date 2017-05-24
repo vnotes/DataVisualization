@@ -4,9 +4,9 @@
 
 ### 平均价格(元/月)
 
-![prices](https://github.com/vnotes/DataVisualization/blob/master/zufang.png)
+![prices](https://github.com/vnotes/DataVisualization/blob/master/%E9%93%BE%E5%AE%B6%E7%A7%9F%E6%88%BF/zufang.png)
 
 
 ### 房子的平均面积(平方米)
 
-![areas](https://github.com/vnotes/DataVisualization/blob/master/zufangAreas.png)
+![areas](https://github.com/vnotes/DataVisualization/blob/master/%E9%93%BE%E5%AE%B6%E7%A7%9F%E6%88%BF/zufangAreas.png)
